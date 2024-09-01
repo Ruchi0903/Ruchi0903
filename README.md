@@ -5,6 +5,7 @@
 
 - 💬 Ask me about **MERN**
 
+- ⚡ Fun fact **Ctrl + S before it’s too late!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
