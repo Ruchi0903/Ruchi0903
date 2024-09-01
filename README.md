@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **MERN**
 
-- ⚡ Fun fact **Why did the developer go broke? Because he used up all his cache!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
