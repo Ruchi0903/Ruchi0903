@@ -1,6 +1,6 @@
 ![MasterHead](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ruchi Yadav</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A full stack developer & DevOps enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" >
 
 - 💬 Ask me about **MERN**
